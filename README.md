@@ -26,7 +26,7 @@
 ##
 
 
-Proyecto realizado en Agosto 2020 por Adonai Lagunes, Andrea Aguilar, Guadalupe Larios y Sonia Cortez.
+Proyecto realizado en Agosto 2020 por Adonai Lagunes, Andrea Aguilar, Guadalupe Larios y Sonia Cortez.               
 **LABORATORIA, UX LIM012-CDMX009.**
 
 
