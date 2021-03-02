@@ -1,3 +1,14 @@
+## Proyecto Banco Pichincha
+Service design para migrar la apertura de cuentas de ahorro de modo presencial a digital dentro de un contexto de emergencia.
+
+#### Prototipo interactivo:
+
+[Desktop](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=404%3A0&scaling=min-zoom) :computer: 
+
+[Mobile](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=509%3A400&scaling=scale-down) :iphone:
+
+##
+
 ![page1](https://user-images.githubusercontent.com/60905476/95043649-051aa400-06a3-11eb-9c47-098e0e97cc5d.png)
 ![Page2](https://user-images.githubusercontent.com/60905476/95043803-78241a80-06a3-11eb-9c8d-d36265659818.png)
 ![Page3](https://user-images.githubusercontent.com/60905476/95043857-9722ac80-06a3-11eb-841f-45620285a465.png)
@@ -7,10 +18,6 @@
 
 
 ### :arrow_right:  ÍNDICE ENTREGABLES:
-
-[Prototipo Desktop](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=404%3A0&scaling=min-zoom)
-
-[Prototipo Mobile](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=509%3A400&scaling=scale-down) 
 
 [User persona | Powtoon](https://www.powtoon.com/c/fe4nQ38UgjQ/2/m)
 
