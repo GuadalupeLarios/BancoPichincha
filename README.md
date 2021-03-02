@@ -3,9 +3,9 @@ Service design para migrar la apertura de cuentas de ahorro de modo presencial a
 
 #### Prototipo interactivo:
 
-[Desktop](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=404%3A0&scaling=min-zoom) :computer: 
+[Diseño Desktop](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=404%3A0&scaling=min-zoom) :computer: 
 
-[Mobile](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=509%3A400&scaling=scale-down) :iphone:
+[Diseño Mobile](https://www.figma.com/proto/StZzvFtoFWEXsuCcN48wkV/Banco-Pichincha-Copia-Guada?node-id=509%3A400&scaling=scale-down) :iphone:
 
 ##
 
